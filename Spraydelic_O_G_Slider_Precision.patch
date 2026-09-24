@@ -1,0 +1,1 @@
+O.G. Presets slider precision fix: preset values use 0 as unused-slot marker; only non-zero value slots create sector handles. This prevents duplicate 180-degree handles and preserves exact preset color-to-sector mapping.

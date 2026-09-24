@@ -1,0 +1,60 @@
+{
+  "name": "Y.O. Tones",
+  "sliders": {
+    "DripsAmount": 128,
+    "DripsSize": 5,
+    "ColorClip": -100,
+    "wOffsetX": 5,
+    "wOffsetY": 7,
+    "wScale": 3,
+    "wRotation": 2
+  },
+  "values": [
+    38,
+    68,
+    103,
+    129,
+    0
+  ],
+  "radialValues": [
+    0,
+    29,
+    0,
+    0,
+    50
+  ],
+  "colors": {
+    "red": {
+      "red": 232,
+      "green": 237,
+      "blue": 223
+    },
+    "yellow": {
+      "red": 252,
+      "green": 202,
+      "blue": 70
+    },
+    "green": {
+      "red": 254,
+      "green": 127,
+      "blue": 45
+    },
+    "magenta": {
+      "red": 97,
+      "green": 155,
+      "blue": 138
+    },
+    "blue": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    },
+    "black": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    }
+  },
+  "modeIndex": 2,
+  "created": "2026-03-30T08:42:17.840Z"
+}

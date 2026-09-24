@@ -1,0 +1,60 @@
+{
+  "name": "Earth",
+  "sliders": {
+    "DripsAmount": 128,
+    "DripsSize": 5,
+    "ColorClip": -100,
+    "wOffsetX": 5,
+    "wOffsetY": 7,
+    "wScale": 3,
+    "wRotation": 2
+  },
+  "values": [
+    66,
+    100,
+    158,
+    184,
+    212
+  ],
+  "radialValues": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "colors": {
+    "red": {
+      "red": 224,
+      "green": 227,
+      "blue": 235
+    },
+    "yellow": {
+      "red": 213,
+      "green": 186,
+      "blue": 205
+    },
+    "green": {
+      "red": 132,
+      "green": 130,
+      "blue": 110
+    },
+    "magenta": {
+      "red": 88,
+      "green": 78,
+      "blue": 78
+    },
+    "blue": {
+      "red": 68,
+      "green": 44,
+      "blue": 44
+    },
+    "black": {
+      "red": 43,
+      "green": 34,
+      "blue": 34
+    }
+  },
+  "modeIndex": 2,
+  "created": "2025-10-14T20:44:03.020Z"
+}

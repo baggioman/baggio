@@ -1,0 +1,60 @@
+{
+  "name": "Geo Blue",
+  "sliders": {
+    "DripsAmount": 128,
+    "DripsSize": 5,
+    "ColorClip": -100,
+    "wOffsetX": 5,
+    "wOffsetY": 7,
+    "wScale": 3,
+    "wRotation": 2
+  },
+  "values": [
+    77,
+    117,
+    171,
+    0,
+    0
+  ],
+  "radialValues": [
+    0,
+    0,
+    0,
+    50,
+    50
+  ],
+  "colors": {
+    "red": {
+      "red": 255,
+      "green": 255,
+      "blue": 255
+    },
+    "yellow": {
+      "red": 26,
+      "green": 195,
+      "blue": 226
+    },
+    "green": {
+      "red": 83,
+      "green": 42,
+      "blue": 3
+    },
+    "magenta": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    },
+    "blue": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    },
+    "black": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    }
+  },
+  "modeIndex": 2,
+  "created": "2025-10-14T20:48:14.838Z"
+}

@@ -1,0 +1,3 @@
+Spraydelic Safe Preset Bridge v19 O.G. reorder v5 - dedicated handle drag fix.
+
+O.G. Presets keeps v4 visual alignment. The ☰ handle now uses both Pointer Events and mouse fallback listeners, tracks the dragged row against row midpoints, suppresses accidental preset-apply clicks after a drag, and persists the new preset order on release.

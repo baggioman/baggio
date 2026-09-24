@@ -1,0 +1,60 @@
+{
+  "name": "Blood Sky",
+  "sliders": {
+    "DripsAmount": 128,
+    "DripsSize": 5,
+    "ColorClip": -100,
+    "wOffsetX": 5,
+    "wOffsetY": 7,
+    "wScale": 3,
+    "wRotation": 2
+  },
+  "values": [
+    16,
+    45,
+    90,
+    130,
+    190
+  ],
+  "radialValues": [
+    0,
+    32,
+    0,
+    16,
+    0
+  ],
+  "colors": {
+    "red": {
+      "red": 252,
+      "green": 246,
+      "blue": 217
+    },
+    "yellow": {
+      "red": 239,
+      "green": 214,
+      "blue": 172
+    },
+    "green": {
+      "red": 156,
+      "green": 198,
+      "blue": 219
+    },
+    "magenta": {
+      "red": 207,
+      "green": 15,
+      "blue": 15
+    },
+    "blue": {
+      "red": 0,
+      "green": 48,
+      "blue": 73
+    },
+    "black": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    }
+  },
+  "modeIndex": 0,
+  "created": "2026-03-30T08:27:28.648Z"
+}

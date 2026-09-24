@@ -1,0 +1,60 @@
+{
+  "name": "Clockwork Orange",
+  "sliders": {
+    "DripsAmount": 128,
+    "DripsSize": 5,
+    "ColorClip": -100,
+    "wOffsetX": 5,
+    "wOffsetY": 7,
+    "wScale": 3,
+    "wRotation": 2
+  },
+  "values": [
+    85,
+    148,
+    192,
+    0,
+    0
+  ],
+  "radialValues": [
+    0,
+    0,
+    0,
+    50,
+    50
+  ],
+  "colors": {
+    "red": {
+      "red": 255,
+      "green": 255,
+      "blue": 255
+    },
+    "yellow": {
+      "red": 239,
+      "green": 128,
+      "blue": 13
+    },
+    "green": {
+      "red": 232,
+      "green": 80,
+      "blue": 17
+    },
+    "magenta": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    },
+    "blue": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    },
+    "black": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    }
+  },
+  "modeIndex": 2,
+  "created": "2025-10-14T20:42:53.866Z"
+}

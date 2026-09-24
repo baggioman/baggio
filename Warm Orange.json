@@ -1,0 +1,60 @@
+{
+  "name": "Warm Orange",
+  "sliders": {
+    "DripsAmount": 1,
+    "DripsSize": 5,
+    "ColorClip": -100,
+    "wOffsetX": 5,
+    "wOffsetY": 7,
+    "wScale": 3,
+    "wRotation": 2
+  },
+  "values": [
+    44,
+    86,
+    132,
+    153,
+    206
+  ],
+  "radialValues": [
+    0,
+    4,
+    12,
+    0,
+    0
+  ],
+  "colors": {
+    "red": {
+      "red": 239,
+      "green": 239,
+      "blue": 208
+    },
+    "yellow": {
+      "red": 255,
+      "green": 229,
+      "blue": 42
+    },
+    "green": {
+      "red": 255,
+      "green": 107,
+      "blue": 53
+    },
+    "magenta": {
+      "red": 207,
+      "green": 75,
+      "blue": 0
+    },
+    "blue": {
+      "red": 90,
+      "green": 14,
+      "blue": 36
+    },
+    "black": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    }
+  },
+  "modeIndex": 1,
+  "created": "2026-04-04T09:30:56.893Z"
+}

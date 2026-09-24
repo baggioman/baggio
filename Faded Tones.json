@@ -1,0 +1,60 @@
+{
+  "name": "Faded Tones",
+  "sliders": {
+    "DripsAmount": 128,
+    "DripsSize": 5,
+    "ColorClip": -100,
+    "wOffsetX": 5,
+    "wOffsetY": 7,
+    "wScale": 3,
+    "wRotation": 2
+  },
+  "values": [
+    13,
+    40,
+    74,
+    119,
+    172
+  ],
+  "radialValues": [
+    50,
+    0,
+    50,
+    11,
+    0
+  ],
+  "colors": {
+    "red": {
+      "red": 252,
+      "green": 246,
+      "blue": 217
+    },
+    "yellow": {
+      "red": 138,
+      "green": 201,
+      "blue": 38
+    },
+    "green": {
+      "red": 255,
+      "green": 202,
+      "blue": 58
+    },
+    "magenta": {
+      "red": 255,
+      "green": 89,
+      "blue": 94
+    },
+    "blue": {
+      "red": 0,
+      "green": 78,
+      "blue": 137
+    },
+    "black": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    }
+  },
+  "modeIndex": 1,
+  "created": "2026-03-30T08:32:24.113Z"
+}
